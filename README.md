@@ -14,7 +14,9 @@ Current students should note that all course evaluation materials, including gra
 
 [Lists](practice-lists)
 
-[Loops](practice-loops)
+[Loops, Basic](practice-loops)
+
+[Loops, Advanced](practice-loops-advanced)
 
 [Conditional Logic](practice-conditional-logic)
 
