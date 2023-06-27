@@ -12,6 +12,7 @@ Current students should note that all course evaluation materials, including gra
 ## Practice Exercises
 [Printing and Strings](practice_strings_print)
 
+[Lists](practice-lists)
 
 ## Assignments
 [Python Pals](assignment-python-pals)
