@@ -20,6 +20,8 @@ Current students should note that all course evaluation materials, including gra
 
 [Loops, Lists, Linguistics](assignment-loops-lists-linguistics)
 
+[Fandom Frenzy](assignment-fandom-frenzy)
+
 [Spooky Escape Room](assignment-spooky-escape-room)
 
 ## Useful Links
