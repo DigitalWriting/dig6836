@@ -14,6 +14,8 @@ Current students should note that all course evaluation materials, including gra
 
 [Lists](practice-lists)
 
+[File Management, Basic](practice-files-basic)
+
 [File Management, Advanced](practice-files-advanced)
 
 ## Assignments
