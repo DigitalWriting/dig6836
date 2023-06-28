@@ -3,7 +3,7 @@ import random
 print("Hello, World!")
 
 def sayHi():
-    print("Hi!")
+    print("Hi there!")
 
 def sayBye():
     print("Bye!")
