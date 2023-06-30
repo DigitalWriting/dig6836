@@ -1,7 +1,7 @@
 # Project Option 2: Analyzing Social Media Trends using Python
 
 ## Assignment Description:
-As a humanities doctoral student, you recognize the significance of social media as a platform for cultural expression and discourse. In this final project, you will apply Python programming skills to analyze social media data and gain insights into current trends, sentiments, or patterns within the digital sphere.
+As a T&T student, you recognize the significance of social media as a platform for cultural expression and discourse. In this final project, you will apply Python programming skills to analyze social media data and gain insights into current trends, sentiments, or patterns within the digital sphere.
 
 ## Objective:
 The objective of this project is to demonstrate your proficiency in Python programming and its application to the analysis of social media trends. You will explore a dataset of social media posts, preprocess the data, apply relevant analysis techniques, and visualize the results to gain insights into the prevailing themes or sentiments within the data.
