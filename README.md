@@ -24,6 +24,8 @@ Current students should note that all course evaluation materials, including gra
 
 [File Management, Advanced](practice-files-advanced)
 
+[Regular Expressions](practice-regex)
+
 ## Minor Assignments
 [Python Pals](assignment-python-pals)
 
