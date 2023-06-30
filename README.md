@@ -53,6 +53,8 @@ Current students should note that all course evaluation materials, including gra
 ## Library Demonstrations
 [BeautifulSoup](library-demo-bs)
 
+[Pandas](library-demo-pandas)
+
 ## Useful Links
 [ChatGPT](https://openai.com/blog/chatgpt)
 
