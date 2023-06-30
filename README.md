@@ -46,6 +46,8 @@ Current students should note that all course evaluation materials, including gra
 
 [Final Project Option 2: Social Media Analysis](project-option2-social.md)
 
+[Final Project Option 3: Open-Ended Data Analysis](project-option3-open.md)
+
 ## Useful Links
 [ChatGPT](https://openai.com/blog/chatgpt)
 
