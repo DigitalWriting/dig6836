@@ -44,6 +44,8 @@ Current students should note that all course evaluation materials, including gra
 
 [Final Project Option 1: Literary Analysis](project-option1-literary.md)
 
+[Final Project Option 2: Social Media Analysis](project-option2-social.md)
+
 ## Useful Links
 [ChatGPT](https://openai.com/blog/chatgpt)
 
