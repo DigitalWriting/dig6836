@@ -42,6 +42,8 @@ Current students should note that all course evaluation materials, including gra
 ## Major Assignment (Final Project)
 [Final Project Proposal](project-proposal.md)
 
+[Final Project Option 1: Literary Analysis](project-option1-literary.md)
+
 ## Useful Links
 [ChatGPT](https://openai.com/blog/chatgpt)
 
