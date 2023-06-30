@@ -1,7 +1,7 @@
 # Final Project Proposal
 
 ## Instructions:
-For this assignment, you will create a project proposal outlining your plan for the final project. You will choose one of the three options provided: (1) Analyzing Literary Themes using Python, (2) Analyzing Social Media Trends using Python, or (3) Data Exploration and Analysis using Python. The proposal should demonstrate a clear understanding of the chosen option and how you plan to apply Python programming skills to analyze and derive insights from the selected dataset.
+For this assignment, you will create a project proposal outlining your plan for the final project. You will choose one of the three options provided: (1) [Analyzing Literary Themes using Python](project-option1-literary.md), (2) [Analyzing Social Media Trends using Python](project-option2-social.md), or (3) [Data Exploration and Analysis using Python](project-option3-open.md). The proposal should demonstrate a clear understanding of the chosen option and how you plan to apply Python programming skills to analyze and derive insights from the selected dataset.
 
 Your proposal should include the following sections:
 
