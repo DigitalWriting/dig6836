@@ -24,7 +24,7 @@ Current students should note that all course evaluation materials, including gra
 
 [File Management, Advanced](practice-files-advanced)
 
-## Assignments
+## Minor Assignments
 [Python Pals](assignment-python-pals)
 
 [Clipboard Collage](assignment-clipboard-collage)
@@ -38,6 +38,9 @@ Current students should note that all course evaluation materials, including gra
 [Fandom Frenzy](assignment-fandom-frenzy)
 
 [Spooky Escape Room](assignment-spooky-escape-room)
+
+## Major Assignment (Final Project)
+[Final Project Proposal](project-proposal.md)
 
 ## Useful Links
 [ChatGPT](https://openai.com/blog/chatgpt)
