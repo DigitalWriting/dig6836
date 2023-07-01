@@ -13,8 +13,10 @@ WEBHOOK_URL = os.environ["WEBHOOK"]
 def main():
     """Start the script."""
 
+    subreddit = "learnpython"
+    
     print("Connecting to Reddit...")
-    message, image_url = get_rising_submissions("pics")
+    message, image_url = get_rising_submissions(subreddit)
 
     print("Data received. Sending webhook...")
     post_message(message, image_url)
@@ -78,11 +80,11 @@ def post_message(message, image_url):
         "username": "Rising Posts",
         "embeds": [
             {
-                "title": "Top Rising Post",
+                "title": "Learn Python's Top Rising Post",
                 "color": 102204,
                 "description": message,
                 "thumbnail": {"url": image_url},
-                "footer": {"text": "Powered by T&T Magic™"}
+                "footer": {"text": "From Reddit's /r/learnPython, Powered by T&T Magic™"}
             }
         ]
     }
