@@ -62,6 +62,8 @@ Current students should note that all course evaluation materials, including gra
 
 [Google Co-Lab](https://colab.research.google.com/?utm_source=scs-index)
 
+[JSON Navigator](https://codebeautify.org/json-navigator-online)
+
 [Markdown to HTML Converter](https://markdowntohtml.com/)
 
 [Programming Historian](https://programminghistorian.org/)
