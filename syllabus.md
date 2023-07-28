@@ -11,47 +11,7 @@
 
 ## Contents
 
-<!-- TOC -->
-
-- [DIG 6836: Humanistic Data Analysis](#dig-6836-humanistic-data-analysis)
-    - [Contents](#contents)
-    - [Course Description](#course-description)
-    - [Course Structure](#course-structure)
-    - [Student Learning Objectives](#student-learning-objectives)
-    - [Materials and Texts](#materials-and-texts)
-        - [Required Texts](#required-texts)
-        - [Recommended Texts](#recommended-texts)
-        - [Other Readings](#other-readings)
-    - [Evaluation and Grading](#evaluation-and-grading)
-    - [Mixed Mode Course Structure](#mixed-mode-course-structure)
-    - [Weekly Schedule](#weekly-schedule)
-        - [Week One: Gearing Up Monday, August 21, 2023](#week-one-gearing-up-monday-august-21-2023)
-        - [Week Two: Data Monday, August 28, 2023](#week-two-data-monday-august-28-2023)
-        - [Week Three: Strings Holiday - Online Module](#week-three-strings-holiday---online-module)
-        - [Week Four: Metadata Monday, September 11, 2023](#week-four-metadata-monday-september-11-2023)
-        - [Week Five: Jupyter Monday, September 18, 2023](#week-five-jupyter-monday-september-18-2023)
-        - [Week Six: Data Structures Monday, September 25, 2023](#week-six-data-structures-monday-september-25-2023)
-        - [Week Seven: Vectors Monday, October 2, 2023](#week-seven-vectors-monday-october-2-2023)
-        - [Week Eight: Analysis Monday, October 9, 2023](#week-eight-analysis-monday-october-9-2023)
-        - [Week Nine: Numbers Monday, October 16, 2023](#week-nine-numbers-monday-october-16-2023)
-        - [Week Ten: Maps Monday, October 23, 2023](#week-ten-maps-monday-october-23-2023)
-        - [Week Eleven: Voices Monday, October 30, 2023](#week-eleven-voices-monday-october-30-2023)
-        - [Week Twelve: Models Monday, November 6, 2023](#week-twelve-models-monday-november-6-2023)
-        - [Week Thirteen: Good Enough Monday, November 13, 2023](#week-thirteen-good-enough-monday-november-13-2023)
-        - [Week Fourteen: Critiques Monday, November 20, 2023](#week-fourteen-critiques-monday-november-20-2023)
-        - [Week Fifteen: Design Futures Monday, November 27, 2023](#week-fifteen-design-futures-monday-november-27-2023)
-        - [Final Exam/Reflection Monday, December 4, 2023](#final-examreflection-monday-december-4-2023)
-    - [General Policies](#general-policies)
-        - [COVID-19 Statement for Fall 2023](#covid-19-statement-for-fall-2023)
-        - [Academic Integrity](#academic-integrity)
-        - [Responses to Academic Dishonesty, Plagiarism, or Cheating](#responses-to-academic-dishonesty-plagiarism-or-cheating)
-        - [Course Accessibility Statement](#course-accessibility-statement)
-        - [Campus Safety Statement](#campus-safety-statement)
-        - [Deployed Active Duty Military Students](#deployed-active-duty-military-students)
-        - [Authorized Events and Religious Observances](#authorized-events-and-religious-observances)
-
-<!-- /TOC -->
-  
+ 
 ---
 
 ## Course Description
@@ -70,7 +30,8 @@ Each week, plan on following instructions in the Webcourses module regarding rea
 
 - **Weekly Readings and Lecture.** The full schedule of required readings is listed in the syllabus. Additional recommended readings will be provided in each module. Weekly lectures for this course will be pre-recorded and available online.
 - **In-Person Activities.** This course follows the flipped classroom approach: lectures are online, and each week's in-person meeting will involve a combination of hands-on design and coding exercises, lab collaboration time, and discussions focused on understanding and applying concepts from the readings. 
-- **Coding Exercises.** A weekly online assignment to build your skills in programming, debugging, and applying code solutions to research and design problems.
+- **Coding Projects and Weekly Assignments.** Weekly online assignments and more complex, multi-week projects to build your skills in programming, debugging, and applying code solutions to research and design problems.
+- **Final Project.** A semester-length assignment, including a proposal, which will allow you to develop a more comprehensive project in Python related to an area of research interest.
 
 ---
 
@@ -138,8 +99,9 @@ Supplementary suggested readings are included in each module to guide additional
 | Points  | Assignment Summary | Due Date  |
 |---|---|---|
 | 5  | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course. As this is required by the university, please attend to it as soon as possible at the start of classes. | Friday, August 25, 2023  |
-| 75  | **Coding Exercises** - Weekly discussions will consist of sharing preliminary readings and arguments, as well as progress towards the final paper. Students are encouraged to use screenshots from the works under discussion, and models will be provided for annotating and engaging through these visuals. | Weekly, 11:59pm each Sunday |
-| 20 | **Reflection** - During the final exam week, students will complete a written reflective essay on their journey, with particular consideration to next steps and potential future applications of programming tools introduced throughout the semester.  | Monday, December 4, 2023  |
+| 70  | **Coding Exercises** - Weekly discussions will consist of sharing preliminary readings and arguments, as well as progress towards the final paper. Students are encouraged to use screenshots from the works under discussion, and models will be provided for annotating and engaging through these visuals. | Weekly, 11:59pm each Sunday |
+| 25 | **Final Project and Reflection** - Students will develop an original research project using Python and will submit a proposal and report on progress throughout the second half of the semester. A final project demonstration and reflection will also be provided.  | Monday, December 4, 2023  |
+
 
 Students can access their grades and feedback at any time using the Grade Book function of Webcourses. All assignments will be submitted through Webcourses. Plan on checking the site at least twice a week for updates and assignment information. Grades are calculated out of 100 following a standard letter scale.
 
