@@ -100,7 +100,7 @@ Supplementary suggested readings are included in each module to guide additional
 |---|---|---|
 | 5  | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course. As this is required by the university, please attend to it as soon as possible at the start of classes. | Friday, August 25, 2023  |
 | 70  | **Coding Exercises** - Weekly discussions will consist of sharing preliminary readings and arguments, as well as progress towards the final paper. Students are encouraged to use screenshots from the works under discussion, and models will be provided for annotating and engaging through these visuals. | Weekly, 11:59pm each Sunday |
-| 25 | **Final Project and Reflection** - Students will develop an original research project using Python and will submit a proposal and report on progress throughout the second half of the semester. A final project demonstration and reflection will also be provided.  | Monday, December 4, 2023  |
+| 25 | **Final Project and Reflection** - Students will develop an original research project using Python and will submit a proposal and report on progress throughout the second half of the semester. Students will complete a final project demonstration and reflection.  | Monday, December 4, 2023  |
 
 
 Students can access their grades and feedback at any time using the Grade Book function of Webcourses. All assignments will be submitted through Webcourses. Plan on checking the site at least twice a week for updates and assignment information. Grades are calculated out of 100 following a standard letter scale.
