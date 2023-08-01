@@ -8,10 +8,49 @@
 - **Classroom Location:** TCH-116
   
 ---
-
 ## Contents
 
- 
+<!-- TOC -->
+
+- [DIG 6836: Humanistic Data Analysis](#dig-6836-humanistic-data-analysis)
+    - [Contents](#contents)
+    - [Course Description](#course-description)
+    - [Course Structure and Minor Assignments](#course-structure-and-minor-assignments)
+    - [Major Assignment](#major-assignment)
+    - [Student Learning Objectives](#student-learning-objectives)
+    - [Materials and Texts](#materials-and-texts)
+        - [Required Texts](#required-texts)
+        - [Recommended Texts](#recommended-texts)
+        - [Other Readings](#other-readings)
+    - [Evaluation and Grading](#evaluation-and-grading)
+    - [Mixed Mode Course Structure](#mixed-mode-course-structure)
+    - [Weekly Schedule](#weekly-schedule)
+        - [Week One: Gearing Up Monday, August 21, 2023](#week-one-gearing-up-monday-august-21-2023)
+        - [Week Two: Data, Loops, and Libraries Monday, August 28, 2023](#week-two-data-loops-and-libraries-monday-august-28-2023)
+        - [Week Three: Strings and File Management Holiday - Online Module](#week-three-strings-and-file-management-holiday---online-module)
+        - [Week Four: Metadata Monday, September 11, 2023](#week-four-metadata-monday-september-11-2023)
+        - [Week Five: Jupyter Monday, September 18, 2023](#week-five-jupyter-monday-september-18-2023)
+        - [Week Six: Data Structures Monday, September 25, 2023](#week-six-data-structures-monday-september-25-2023)
+        - [Week Seven: Vectors Monday, October 2, 2023](#week-seven-vectors-monday-october-2-2023)
+        - [Week Eight: Analysis Monday, October 9, 2023](#week-eight-analysis-monday-october-9-2023)
+        - [Week Nine: Numbers Monday, October 16, 2023](#week-nine-numbers-monday-october-16-2023)
+        - [Week Ten: Maps Monday, October 23, 2023](#week-ten-maps-monday-october-23-2023)
+        - [Week Eleven: Voices Monday, October 30, 2023](#week-eleven-voices-monday-october-30-2023)
+        - [Week Twelve: Models Monday, November 6, 2023](#week-twelve-models-monday-november-6-2023)
+        - [Week Thirteen: Good Enough Monday, November 13, 2023](#week-thirteen-good-enough-monday-november-13-2023)
+        - [Week Fourteen: Critiques Monday, November 20, 2023](#week-fourteen-critiques-monday-november-20-2023)
+        - [Week Fifteen: Design Futures Monday, November 27, 2023](#week-fifteen-design-futures-monday-november-27-2023)
+        - [Final Exam/Reflection Monday, December 4, 2023](#final-examreflection-monday-december-4-2023)
+    - [General Policies](#general-policies)
+        - [COVID-19 Statement for Fall 2023](#covid-19-statement-for-fall-2023)
+        - [Academic Integrity](#academic-integrity)
+        - [Responses to Academic Dishonesty, Plagiarism, or Cheating](#responses-to-academic-dishonesty-plagiarism-or-cheating)
+        - [Course Accessibility Statement](#course-accessibility-statement)
+        - [Campus Safety Statement](#campus-safety-statement)
+        - [Deployed Active Duty Military Students](#deployed-active-duty-military-students)
+        - [Authorized Events and Religious Observances](#authorized-events-and-religious-observances)
+
+<!-- /TOC -->
 ---
 
 ## Course Description
@@ -132,110 +171,112 @@ This course uses a mixed mode format, and relies upon students to complete all r
 
 ### Week One: Gearing Up (Monday, August 21, 2023)
 
-We start the semester by configuring our systems for Python: we'll work through the installation process and get to know Python, Thonny, Google CoLab, and Git as the tools we'll rely upon throughout the semester.
+We start the semester by configuring our systems for Python: we'll get to know Python, Thonny, Google CoLab, and VS Code as the tools we'll rely upon throughout the semester. We will learn about commenting code, printing to the screen, collecting input, and defining and using variables.
 
-- *Digital Humanities Coursebook*: Chapter 1
+- *Digital Humanities Coursebook*: Chapter 1: Digital Humanities Overview
 - **Due: Activity Verification (Friday, August 25th)**
 - **Due: Coding Assignment One: Python Pals (Sunday, August 27th)**
 
-### Week Two: Data (Monday, August 28, 2023)
+### Week Two: Data, Loops, and Libraries (Monday, August 28, 2023)
 
-As we test out our configurations, we will explore the different types of data that T&T work can engage, as well as start to consider the practicalities of marking, cleaning, and using data.
+As we test out our configurations, we will explore the different types of data that T&T work can engage, as well as start to consider the practicalities of marking, cleaning, and using data. We will also learn about conditional logic and loops, the random library, and the Pyperclip library.
 
+- *Digital Humanities Coursebook*: Chapter 2: Data Modeling and Use
 - Turkel, William J. and Adam Krymble. [Code Reuse and Modularity in Python.](https://programminghistorian.org/en/lessons/code-reuse-and-modularity)
 - Turkel, William J. and Adam Krymble. [Downloading Web Pages in Python.](https://programminghistorian.org/en/lessons/working-with-web-pages)
-- *Digital Humanities Coursebook*: Chapter 2
 - **Due: Coding Assignment Two: Clipboard Collage (Sunday, Sept. 3rd)**
 
-### Week Three: Strings (Holiday - Online Module)
+### Week Three: Strings and File Management (Holiday - Online Module)
 
-We'll build our comfort with the language of programming through exploring building blocks, with an emphasis on strings as the foundation of textual data, as well as variables, functions, and loops.
+Note that there is no in-person class meeting this week. Online, we'll build our comfort with the language of programming through exploring building blocks, with an emphasis on strings as the foundation of textual data, as well as basic file operations, functions, and data manipulation/parsing.
 
+- *Digital Humanities Coursebook*: Chapter 3: Digitization
 - Turkel, William J. and Adam Krymble. [Manipulating Strings in Python.](https://programminghistorian.org/en/lessons/manipulating-strings-in-python)
 - Turkel, William J. and Adam Krymble. [From HTML to List of Strings.](https://programminghistorian.org/en/lessons/from-html-to-list-of-words-1)
-- *Digital Humanities Coursebook*: Chapter 3
 - **Due: Coding Assignment Three: Project Gutenberg Explorer (Sunday, Sept. 10th)**
 
 ### Week Four: Metadata (Monday, September 11, 2023)
 
 Through thinking about both the texts we engage and their metadata, markup, and descriptions, we'll engage both the pragmatic challenges of standards (XML, TEI, JSON, and so forth) and the research possibilities.
 
+- *Digital Humanities Coursebook*: Chapter 4: Metadata, Markup and Data Description
 - Turkel, William J. and Adam Krymble. [Normalizing Textual Data with Python.](https://programminghistorian.org/en/lessons/normalizing-data)
 - Turkel, William J. and Adam Krymble. [Counting Word Frequency with Python.](https://programminghistorian.org/en/lessons/counting-frequencies)
-- *Digital Humanities Coursebook*: Chapter 4
 - **Due: Coding Assignment Four: Arts Website Scraper (Sunday, Sept. 17th)**
   
 ### Week Five: Jupyter (Monday, September 18, 2023)
 
 As we level up our methodologies, we'll start to explore the capacity of Jupyter Notebooks, with particular attention to how we can start to build reusable, structured methodologies for working in Python.
 
-- Dombrowsi, Quinn, Tassie Gniady, and David Kloster. [Introduction to Jupyter Notebooks](https://programminghistorian.org/en/lessons/jupyter-notebooks)
-- *Humanities Data Analysis*: Chapter 1
+- *Humanities Data Analysis*: Chapter 1: Quantitative Data Analysis and the Humanities
+- Dombrowski, Quinn, Tassie Gniady, and David Kloster. [Introduction to Jupyter Notebooks](https://programminghistorian.org/en/lessons/jupyter-notebooks)
 - **Due: Coding Assignment Five: Loops, Lists, and Linguistics (Sunday, Sept. 24th)**  
 
 ### Week Six: Data Structures (Monday, September 25, 2023)
 
 Working with larger datasets requires more intentional structures: we'll explore databases and build our comfort with manipulating and parsing CSV, PDFs, JSON, XML, and HTML documents.
 
-- *Humanities Data Analysis*: Chapter 2
-- *Digital Humanities Coursebook*: Chapter 5
+- *Humanities Data Analysis*: Chapter 2: Parsing and Manipulating Structured Data
+- *Digital Humanities Coursebook*: Chapter 5: Database Design
 
 ### Week Seven: Vectors (Monday, October 2, 2023)
 
 Through leveling up our text processing, we'll build our confidence in another data structure, arrays, while starting to think about visual as well as textual dimensions to exploring data.
 
-- *Humanities Data Analysis*: Chapter 3
-- *Digital Humanities Coursebook*: Chapter 6
+- *Humanities Data Analysis*: Chapter 3: Exploring Texts Using the Vector Space Model
+- *Digital Humanities Coursebook*: Chapter 6: Information Visualization
 - **Due: Coding Assignment Six: Fandom Frenzy (Sunday, Oct. 8th)**  
 
 ### Week Eight: Analysis (Monday, October 9, 2023)
 
 By starting to combine humanist theoretical lenses with our new technical methodologies, we'll engage in thoughtful critique of cultural data "mining" and its challenges.
 
-- *Humanities Data Analysis*: Chapter 4
-- *Digital Humanities Coursebook*: Chapter 7
+- *Humanities Data Analysis*: Chapter 4: Processing Tabular Data
+- *Digital Humanities Coursebook*: Chapter 7: Data Mining and Analysis
 
 ### Week Nine: Numbers (Monday, October 16, 2023)
 
 While the quantitative is rarely centered in Texts & Technology, some measurable datasets can have revealing numeric aspects. We'll explore methods for visualizing statistics and probability in humanities data.
 
-- *Humanities Data Analysis*: Chapter 5 and 6
+- *Humanities Data Analysis*: Chapter 5: Statistics Essentials - Who Reads Novels?
+- *Humanities Data Analysis*: Chapter 6: Introduction to Probability
 
 ### Week Ten: Maps (Monday, October 23, 2023)
 
 Drawing on models of GIS and spatial humanities, we'll explore the potential for data maps and plots across humanities datasets, thinking through both traditional and thematic approaches to mapping.
 
-- *Humanities Data Analysis*: Chapter 7
-- *Digital Humanities Coursebook*: Chapter 8
+- *Humanities Data Analysis*: Chapter 7: Narrating with Maps
+- *Digital Humanities Coursebook*: Chapter 8: Mapping and GIS
 - **Due: Coding Assignment Seven: Spooky Escape Room (Sunday, Oct. 29th)**  
 
 ### Week Eleven: Voices (Monday, October 30, 2023)
 
 While understandably subject to critique, computational methods for attributing authorship and finding patterns in writing styles have attracted a lot of attention. We'll explore these mechanisms, with attention to the theorizing of "voice."
 
-- *Humanities Data Analysis*: Chapter 8
-- *Digital Humanities Coursebook*: Chapter 9
+- *Humanities Data Analysis*: Chapter 8: Stylometry and the Voice of Hildegard
+- *Digital Humanities Coursebook*: Chapter 9: 3D and Virtual Models
 - **Due: Final Project Proposal (Sunday, Nov. 5th)**  
   
 ### Week Twelve: Models (Monday, November 6, 2023)
 
 As we continue to critique and explore distant reading, we will engage with methods of topic modeling, and consider the potential and challenges of integrating these approaches alongside humanities approaches.
 
-- *Humanities Data Analysis*: Chapter 9
-- *Digital Humanities Coursebook*: Chapter 10
+- *Humanities Data Analysis*: Chapter 9: A Topic Model of US Supreme Court Opinions
+- *Digital Humanities Coursebook*: Chapter 10: Interface
 
 ### Week Thirteen: Good Enough (Monday, November 13, 2023)
 
 Drawing on the models and questions from our texts, we'll consider the approach of "good enough," and discuss how we can bring these lessons to our projects, particularly in terms of allowing for failure and iteration. We'll also explore methods for translating knowledge from Python to other programming languages.
 
 - *Humanities Data Analysis*: Epilogue
-- *Digital Humanities Coursebook*: Chapter 11
+- *Digital Humanities Coursebook*: Chapter 11: Web Formats and Resources
+- **Due: Final Project Progress Report (Sunday, Nov. 19th)**  
 
 ### Week Fourteen: Critiques (Monday, November 20, 2023)
 
 Using both *Race After Technology* and the work of other scholars from our core list, we will critique the methods we've put into place, considering how we might reshape and reimagine our technologies and code in light of these challenges.
 
-- *Digital Humanities Coursebook*: Chapter 12
+- *Digital Humanities Coursebook*: Chapter 12: Project Design and IP
 
 ### Week Fifteen: Design Futures (Monday, November 27, 2023)
 
@@ -244,6 +285,10 @@ During the final project showcase, we will embrace both the successes and failur
 - *Digital Humanities Coursebook*: Coda
 
 ### Final Exam/Reflection (Monday, December 4, 2023)
+
+During this final class meeting and our official final exam period, students will demonstrate their final projects and reflect on the design process, goals met, challenges encountered, and lessons learned.
+
+- **Due: Final Projects Due (Sunday, Dec. 3rd)**  
 
 ---
 
