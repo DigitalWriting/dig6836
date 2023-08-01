@@ -50,6 +50,8 @@ Current students should note that all course evaluation materials, including gra
 
 [Final Project Option 3: Open-Ended Data Analysis](project-option3-open.md)
 
+[Final Project Progress Report](project-progress-report.md)
+
 ## Library Demonstrations
 [Pyperclip](library-demo-pyperclip)
 
