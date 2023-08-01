@@ -29,7 +29,7 @@
         - [Week Two: Data, Loops, and Libraries Monday, August 28, 2023](#week-two-data-loops-and-libraries-monday-august-28-2023)
         - [Week Three: Strings and File Management Holiday - Online Module](#week-three-strings-and-file-management-holiday---online-module)
         - [Week Four: Metadata Monday, September 11, 2023](#week-four-metadata-monday-september-11-2023)
-        - [Week Five: Jupyter Monday, September 18, 2023](#week-five-jupyter-monday-september-18-2023)
+        - [Week Five: Looping Rings around Jupyter Monday, September 18, 2023](#week-five-looping-rings-around-jupyter-monday-september-18-2023)
         - [Week Six: Data Structures Monday, September 25, 2023](#week-six-data-structures-monday-september-25-2023)
         - [Week Seven: Vectors Monday, October 2, 2023](#week-seven-vectors-monday-october-2-2023)
         - [Week Eight: Analysis Monday, October 9, 2023](#week-eight-analysis-monday-october-9-2023)
@@ -38,12 +38,13 @@
         - [Week Eleven: Voices Monday, October 30, 2023](#week-eleven-voices-monday-october-30-2023)
         - [Week Twelve: Models Monday, November 6, 2023](#week-twelve-models-monday-november-6-2023)
         - [Week Thirteen: Good Enough Monday, November 13, 2023](#week-thirteen-good-enough-monday-november-13-2023)
-        - [Week Fourteen: Critiques Monday, November 20, 2023](#week-fourteen-critiques-monday-november-20-2023)
+        - [Week Fourteen: Progress Reports Monday, November 20, 2023](#week-fourteen-progress-reports-monday-november-20-2023)
         - [Week Fifteen: Design Futures Monday, November 27, 2023](#week-fifteen-design-futures-monday-november-27-2023)
         - [Final Exam/Reflection Monday, December 4, 2023](#final-examreflection-monday-december-4-2023)
     - [General Policies](#general-policies)
         - [COVID-19 Statement for Fall 2023](#covid-19-statement-for-fall-2023)
         - [Academic Integrity](#academic-integrity)
+        - [Artificial Intelligence AI Tools and Software](#artificial-intelligence-ai-tools-and-software)
         - [Responses to Academic Dishonesty, Plagiarism, or Cheating](#responses-to-academic-dishonesty-plagiarism-or-cheating)
         - [Course Accessibility Statement](#course-accessibility-statement)
         - [Campus Safety Statement](#campus-safety-statement)
@@ -205,9 +206,9 @@ Through thinking about both the texts we engage and their metadata, markup, and 
 - Turkel, William J. and Adam Krymble. [Counting Word Frequency with Python.](https://programminghistorian.org/en/lessons/counting-frequencies)
 - **Due: Coding Assignment Four: Arts Website Scraper (Sunday, Sept. 17th)**
   
-### Week Five: Jupyter (Monday, September 18, 2023)
+### Week Five: Looping Rings around Jupyter (Monday, September 18, 2023)
 
-As we level up our methodologies, we'll start to explore the capacity of Jupyter Notebooks, with particular attention to how we can start to build reusable, structured methodologies for working in Python.
+As we level up our methodologies, we'll start to explore the capacity of Jupyter Notebooks, with particular attention to how we can start to build reusable, structured methodologies for working in Python. We will also practice more with loops, lists, and other data structures in Python.
 
 - *Humanities Data Analysis*: Chapter 1: Quantitative Data Analysis and the Humanities
 - Dombrowski, Quinn, Tassie Gniady, and David Kloster. [Introduction to Jupyter Notebooks](https://programminghistorian.org/en/lessons/jupyter-notebooks)
@@ -273,15 +274,15 @@ Drawing on the models and questions from our texts, we'll consider the approach 
 - *Digital Humanities Coursebook*: Chapter 11: Web Formats and Resources
 - **Due: Final Project Progress Report (Sunday, Nov. 19th)**  
 
-### Week Fourteen: Critiques (Monday, November 20, 2023)
+### Week Fourteen: Progress Reports (Monday, November 20, 2023)
 
-Using both *Race After Technology* and the work of other scholars from our core list, we will critique the methods we've put into place, considering how we might reshape and reimagine our technologies and code in light of these challenges.
+We will report out on project progress and critique the methods we've put into place, considering how we might reshape and re-imagine our technologies and code in light of these challenges.
 
 - *Digital Humanities Coursebook*: Chapter 12: Project Design and IP
 
 ### Week Fifteen: Design Futures (Monday, November 27, 2023)
 
-During the final project showcase, we will embrace both the successes and failures of the process of integrating Python-driven methods and tools into our scholarship, and brainstorm next steps.
+As we make final tweaks in preparation for the final project showcase, we will embrace both the successes and failures of the process of integrating Python-driven methods and tools into our scholarship and brainstorm next steps.
 
 - *Digital Humanities Coursebook*: Coda
 
@@ -323,6 +324,14 @@ Students should familiarize themselves with [UCF’s Rules of Conduct](https://s
 6. Multiple Submissions: Submitting the same academic work for credit more than once without the express written permission of the instructor.
 7. Helping another violate academic behavior standards.
 8. Soliciting assistance with academic coursework and/or degree requirements.
+
+### Artificial Intelligence (AI) Tools and Software
+
+We are now at the point in history where artificial intelligence tools and software (e.g., ChatGPT, GPT-4, Google Bard, Github Co-Pilot, Adobe Firefly, Starry AI, and many others) can create reasonably sophisticated and compelling forms of writing, coding, image generation, and other forms of communication. This includes the automated generation of Python code, which many of these systems can do quite well. In fact, Google Bard can even run your Python scripts and provide output. I encourage you to experiment with these tools to explore ideas and possibilities for your project development and to explore ideas for your final project. However, all uses of AI-generated writing and coding should be documented as such in your proposal documents and you should only use these tools as rough conceptual or brainstorming tools for work that you will ultimately author on your own (using your human brain).
+
+Using AI tools can be very helpful for documenting and explaining sections of code and errors in your code. In fact, they are so useful that I encourage you to use them to assist you as you are learning the fundamentals of Python. However, any undocumented applications of ChatGPT or similar AI-tools to fully generate the Python code for your project assignments or final project will be considered plagiarism and subjected to the normal disciplinary procedures as outlined in the UCF Student Rules of Conduct and UCF’s policies on academic misconduct. If you are uncertain whether or not you are using AI-tools appropriately for this class then please talk to me about your plans before moving forward.
+
+In short, I encourage you to use, but not abuse, such tools in this class.
 
 ### Responses to Academic Dishonesty, Plagiarism, or Cheating
 
