@@ -16,22 +16,27 @@
 
 ## Course Description
 
-Texts & Technology work is situated on an understanding of "new" media mechanisms, which includes the underlying layer of code. Throughout the core Texts & Technology courses, we work to bridge the gaps of text, technology, and theory. In *Humanistic Data Analysis*, we will put this understanding into practice, building towards confidence and flexibility in using procedural tools and digital methods in humanities research. While there are many languages potential relevant to T&T and the digital humanities broadly, this course focuses on Python, which is currently one of the top choices for data analysis thanks to its tools (including Jupyter Notebooks, which we will employ) and flexibility.
+Texts & Technology work is situated on an understanding of "new" media mechanisms, which includes the underlying layer of code. Throughout the core Texts & Technology courses, we work to bridge the gaps of text, technology, and theory. In *Humanistic Data Analysis*, we will put this understanding into practice, building towards confidence and flexibility in using procedural tools and digital methods in humanities research. While there are many languages potential relevant to T&T and the digital humanities broadly, this course focuses on Python, which is currently one of the top choices for data analysis thanks to its tools (including Jupyter Notebooks, which we will employ), robust libraries (allowing specialized functionality for dealing with common tasks in data analysis), and flexibility.
 
 The main practical objective of this course is to provide you with the necessary skills to utilize Python and associated tools for conducting research in the humanities. By the end of the course, you will be equipped with the knowledge and practical experience to analyze and interpret data within a humanistic context.
 
-With this goal in mind, the bulk of the course will be spent experimenting. While at first it may seem there is minimal "writing" in this course, Annette Vee's framework reminds us that code itself fits in the rubric of literacy, and through reading and writing code (and using it as a lens for seeing other "texts") we will build that procedural literacy. This may mean stepping out of our comfort zones. As we learn to build interactive programs and web pages in Python, we will remix content, make use of AI tools and other assistive software, experiment with strategies, fail often, revise our approach, spend significant amounts of time searching and researching, perservere, and ultimately create projects that are useful to our goals. This is what it means to be digitally literate scholars operating in an ever-evolving technological landscape.
+With this goal in mind, the bulk of the course will be spent experimenting. While at first it may seem there is minimal "writing" in this course, Annette Vee's framework reminds us that code itself fits in the rubric of literacy, and through reading and writing code (and using it as a lens for seeing other "texts") we will build that procedural literacy. This may mean stepping out of our comfort zones. As we learn to build interactive programs and web pages in Python, we will remix content, make use of AI tools and other assistive software, experiment with different strategies, fail often, revise our approach, spend significant amounts of time searching and researching, perservere, and ultimately create projects that are useful to our goals. This is what it means to be digitally literate scholars operating in an ever-evolving technological landscape.
 
-At the end of the course, we will put this knowledge into use through a larger project, building upon the exercises towards a potential future research application in an area of interest.
+At the end of the course, we will put this knowledge to use through developing and presenting a larger project, building upon the exercises towards a potential future research application in an area of interest.
 
-## Course Structure
+## Course Structure and Minor Assignments
 
 Each week, plan on following instructions in the Webcourses module regarding readings and online exercises to accompany the in-class discussion. Each module will be divided into three sections:
 
 - **Weekly Readings and Lecture.** The full schedule of required readings is listed in the syllabus. Additional recommended readings will be provided in each module. Weekly lectures for this course will be pre-recorded and available online.
-- **In-Person Activities.** This course follows the flipped classroom approach: lectures are online, and each week's in-person meeting will involve a combination of hands-on design and coding exercises, lab collaboration time, and discussions focused on understanding and applying concepts from the readings. 
-- **Coding Projects and Weekly Assignments.** Weekly online assignments and more complex, multi-week projects to build your skills in programming, debugging, and applying code solutions to research and design problems.
-- **Final Project.** A semester-length assignment, including a proposal, which will allow you to develop a more comprehensive project in Python related to an area of research interest.
+- **In-Person Activities.** This course follows the flipped classroom approach: lectures are online, and each week's in-person meeting will involve a combination of hands-on design and review of coding assignments, working through smaller coding exercises, lab collaboration time, and discussions focused on understanding and applying concepts from the readings. 
+- **Coding Assignments.** Weekly online assignments and more complex, multi-week projects to build your skills in programming, debugging, and applying code solutions to research and design problems.
+
+---
+
+## Major Assignment
+
+**Final Project.** In addition to smaller, periodic Python projects assigned throughout the semester, you will also complete a larger, more complex assignment, including a proposal, which will allow you to develop a more comprehensive research deliverable in Python related to your research interests.
 
 ---
 
@@ -78,7 +83,7 @@ This course requires a mix of applied and theoretical readings, including some o
 
 ### Recommended Texts
 
-These two books are not required, but one or both will be a great reference text to supplement your learning of Python. If you can only choose one, either one will be fine. I will also be linking some of the video tutorials from Al Sweigart (second book below) throughout the class for supplemental reference.
+These two books are not required, but one or both will be a great reference text to supplement your learning of Python. If you only wish to invest in one, either book will be fine. I will also be linking some of the video tutorials from Al Sweigart (second book below) throughout the class for supplemental reference.
 
 - Matthes, Eric. 2023. *Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming*. No Starch Press.
   - ISBN-10: 1718502702
@@ -99,8 +104,9 @@ Supplementary suggested readings are included in each module to guide additional
 | Points  | Assignment Summary | Due Date  |
 |---|---|---|
 | 5  | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course. As this is required by the university, please attend to it as soon as possible at the start of classes. | Friday, August 25, 2023  |
-| 70  | **Coding Exercises** - Weekly discussions will consist of sharing preliminary readings and arguments, as well as progress towards the final paper. Students are encouraged to use screenshots from the works under discussion, and models will be provided for annotating and engaging through these visuals. | Weekly, 11:59pm each Sunday |
-| 25 | **Final Project and Reflection** - Students will develop an original research project using Python and will submit a proposal and report on progress throughout the second half of the semester. Students will complete a final project demonstration and reflection.  | Monday, December 4, 2023  |
+| 70  | **Coding Assignments** - Periodic coding assignments with gradually increasing complexity will provide you with an opportunity to demonstrate knowledge of course concepts. | Weekly and periodically, 11:59pm each Sunday |
+| 10 | **Final Project Proposal** - Students will develop a proposal for an original research project using Python.  | Monday, November 6, 2023 |
+| 15 | **Final Project and Reflection** - Students will develop an original research project using Python. Students will complete a final project demonstration and reflection.  | Monday, December 4, 2023 |
 
 
 Students can access their grades and feedback at any time using the Grade Book function of Webcourses. All assignments will be submitted through Webcourses. Plan on checking the site at least twice a week for updates and assignment information. Grades are calculated out of 100 following a standard letter scale.
@@ -116,8 +122,8 @@ There is no extra credit work available in this class. Grades will be available 
 This course uses a mixed mode format, and relies upon students to complete all readings, engage with online videos, and join in on course discussions. All assignments are due at the close of their listed module, but will be accepted with no penalty through the next listed deadline. Once an assignment closes, late work will not be accepted unless an additional extension has already been approved by the instructor: please reach out early if circumstances will require additional time!
 
 - The course will meet at the scheduled time on campus unless otherwise noted in the weekly module.
-- Office hour assistance is additionally available both through text on Webcourses messages and via Zoom: Zoom is recommended for advanced technical problems, where screen-sharing might be helpful to resolving errors.
-- Students will need access to a reliable internet connection and computer to participate in this course. Due to the Python installation needs, administrative access to the system is required to complete assignments.
+- Office hour assistance is additionally available both through email and via Zoom: Zoom is recommended for advanced technical problems, where screen-sharing might be helpful to resolving errors.
+- Students will need access to a reliable internet connection and computer to participate in this course. Due to the Python installation needs (including the installation of additional libraries), **administrative access to your computer is required to complete assignments**.
 - In the event of an emergency or medical challenge, additional flexibility beyond the grading guidelines is available: when anticipated, students should reach out to the instructor as soon as feasible to form a plan or discuss an incomplete if needed.
 
 ---
@@ -129,8 +135,8 @@ This course uses a mixed mode format, and relies upon students to complete all r
 We start the semester by configuring our systems for Python: we'll work through the installation process and get to know Python, Thonny, Google CoLab, and Git as the tools we'll rely upon throughout the semester.
 
 - *Digital Humanities Coursebook*: Chapter 1
-- **Due: Activity Verification (Friday August 27th)**
-- **Coding Exercise One: Python Pals**
+- **Due: Activity Verification (Friday, August 25th)**
+- **Due: Coding Assignment One: Python Pals (Sunday, August 27th)**
 
 ### Week Two: Data (Monday, August 28, 2023)
 
@@ -139,7 +145,7 @@ As we test out our configurations, we will explore the different types of data t
 - Turkel, William J. and Adam Krymble. [Code Reuse and Modularity in Python.](https://programminghistorian.org/en/lessons/code-reuse-and-modularity)
 - Turkel, William J. and Adam Krymble. [Downloading Web Pages in Python.](https://programminghistorian.org/en/lessons/working-with-web-pages)
 - *Digital Humanities Coursebook*: Chapter 2
-- **Coding Exercise Two: Arts Website Scraper**
+- **Due: Coding Assignment Two: Clipboard Collage (Sunday, Sept. 3rd)**
 
 ### Week Three: Strings (Holiday - Online Module)
 
@@ -148,7 +154,7 @@ We'll build our comfort with the language of programming through exploring build
 - Turkel, William J. and Adam Krymble. [Manipulating Strings in Python.](https://programminghistorian.org/en/lessons/manipulating-strings-in-python)
 - Turkel, William J. and Adam Krymble. [From HTML to List of Strings.](https://programminghistorian.org/en/lessons/from-html-to-list-of-words-1)
 - *Digital Humanities Coursebook*: Chapter 3
-- **Coding Exercise Three: Project Gutenberg Explorer**
+- **Due: Coding Assignment Three: Project Gutenberg Explorer (Sunday, Sept. 10th)**
 
 ### Week Four: Metadata (Monday, September 11, 2023)
 
@@ -157,7 +163,7 @@ Through thinking about both the texts we engage and their metadata, markup, and 
 - Turkel, William J. and Adam Krymble. [Normalizing Textual Data with Python.](https://programminghistorian.org/en/lessons/normalizing-data)
 - Turkel, William J. and Adam Krymble. [Counting Word Frequency with Python.](https://programminghistorian.org/en/lessons/counting-frequencies)
 - *Digital Humanities Coursebook*: Chapter 4
-- **Coding Exercise Four: Counting**
+- **Due: Coding Assignment Four: Arts Website Scraper (Sunday, Sept. 17th)**
   
 ### Week Five: Jupyter (Monday, September 18, 2023)
 
@@ -165,7 +171,7 @@ As we level up our methodologies, we'll start to explore the capacity of Jupyter
 
 - Dombrowsi, Quinn, Tassie Gniady, and David Kloster. [Introduction to Jupyter Notebooks](https://programminghistorian.org/en/lessons/jupyter-notebooks)
 - *Humanities Data Analysis*: Chapter 1
-- **Coding Exercise Five: Jupyter Configuration**
+- **Due: Coding Assignment Five: Loops, Lists, and Linguistics (Sunday, Sept. 24th)**  
 
 ### Week Six: Data Structures (Monday, September 25, 2023)
 
@@ -173,15 +179,14 @@ Working with larger datasets requires more intentional structures: we'll explore
 
 - *Humanities Data Analysis*: Chapter 2
 - *Digital Humanities Coursebook*: Chapter 5
-- **Coding Exercise Six: Structured Data**
-  
+
 ### Week Seven: Vectors (Monday, October 2, 2023)
 
 Through leveling up our text processing, we'll build our confidence in another data structure, arrays, while starting to think about visual as well as textual dimensions to exploring data.
 
 - *Humanities Data Analysis*: Chapter 3
 - *Digital Humanities Coursebook*: Chapter 6
-- **Coding Exercise Seven: Initial Analysis**
+- **Due: Coding Assignment Six: Fandom Frenzy (Sunday, Oct. 8th)**  
 
 ### Week Eight: Analysis (Monday, October 9, 2023)
 
@@ -189,14 +194,12 @@ By starting to combine humanist theoretical lenses with our new technical method
 
 - *Humanities Data Analysis*: Chapter 4
 - *Digital Humanities Coursebook*: Chapter 7
-- **Coding Exercise Eight: Cultural Analysis?**
 
 ### Week Nine: Numbers (Monday, October 16, 2023)
 
 While the quantitative is rarely centered in Texts & Technology, some measurable datasets can have revealing numeric aspects. We'll explore methods for visualizing statistics and probability in humanities data.
 
 - *Humanities Data Analysis*: Chapter 5 and 6
-- **Coding Exercise Nine: Numbers**
 
 ### Week Ten: Maps (Monday, October 23, 2023)
 
@@ -204,7 +207,7 @@ Drawing on models of GIS and spatial humanities, we'll explore the potential for
 
 - *Humanities Data Analysis*: Chapter 7
 - *Digital Humanities Coursebook*: Chapter 8
-- **Coding Exercise Ten: Mapping**
+- **Due: Coding Assignment Seven: Spooky Escape Room (Sunday, Oct. 29th)**  
 
 ### Week Eleven: Voices (Monday, October 30, 2023)
 
@@ -212,7 +215,7 @@ While understandably subject to critique, computational methods for attributing 
 
 - *Humanities Data Analysis*: Chapter 8
 - *Digital Humanities Coursebook*: Chapter 9
-- **Coding Exercise Eleven: Principal Component Analysis**
+- **Due: Final Project Proposal (Sunday, Nov. 5th)**  
   
 ### Week Twelve: Models (Monday, November 6, 2023)
 
@@ -220,7 +223,6 @@ As we continue to critique and explore distant reading, we will engage with meth
 
 - *Humanities Data Analysis*: Chapter 9
 - *Digital Humanities Coursebook*: Chapter 10
-- **Coding Exercise Twelve: Texts, Three Ways**
 
 ### Week Thirteen: Good Enough (Monday, November 13, 2023)
 
@@ -228,21 +230,18 @@ Drawing on the models and questions from our texts, we'll consider the approach 
 
 - *Humanities Data Analysis*: Epilogue
 - *Digital Humanities Coursebook*: Chapter 11
-- **Coding Exercise Thirteen: Interface**
 
 ### Week Fourteen: Critiques (Monday, November 20, 2023)
 
 Using both *Race After Technology* and the work of other scholars from our core list, we will critique the methods we've put into place, considering how we might reshape and reimagine our technologies and code in light of these challenges.
 
 - *Digital Humanities Coursebook*: Chapter 12
-- **Coding Exercise Fourteen: Design**
 
 ### Week Fifteen: Design Futures (Monday, November 27, 2023)
 
 During the final project showcase, we will embrace both the successes and failures of the process of integrating Python-driven methods and tools into our scholarship, and brainstorm next steps.
 
 - *Digital Humanities Coursebook*: Coda
-- **Coding Exercise Fourteen Due**
 
 ### Final Exam/Reflection (Monday, December 4, 2023)
 
