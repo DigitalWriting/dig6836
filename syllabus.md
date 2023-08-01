@@ -144,7 +144,7 @@ Supplementary suggested readings are included in each module to guide additional
 |---|---|---|
 | 5  | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course. As this is required by the university, please attend to it as soon as possible at the start of classes. | Friday, August 25, 2023  |
 | 70  | **Coding Assignments** - Periodic coding assignments with gradually increasing complexity will provide you with an opportunity to demonstrate knowledge of course concepts. | Weekly and periodically, 11:59pm each Sunday |
-| 10 | **Final Project Proposal** - Students will develop a proposal for an original research project using Python.  | Monday, November 6, 2023 |
+| 10 | **Final Project Proposal and Progress Report** - Students will develop a proposal for an original research project using Python and provide a progress report midway through development.  | Monday, November 6, 2023 |
 | 15 | **Final Project and Reflection** - Students will develop an original research project using Python. Students will complete a final project demonstration and reflection.  | Monday, December 4, 2023 |
 
 
