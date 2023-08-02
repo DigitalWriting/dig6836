@@ -1,7 +1,7 @@
 # Loops, Lists, and Linguistics
 
 ## Objective
-The objective of this assignment is to reinforce your understanding of loops, lists, and their application in solving linguistic problems. You will write Python programs that manipulate lists of words and perform various linguistic tasks using loops and conditional statements.
+The objective of this assignment is to reinforce your understanding of loops, lists, and their application in solving linguistic problems. You will also learn how to use Jupyter notebooks in Google Co-Lab. You will write Python programs or functions that manipulate lists of words and perform various linguistic tasks using loops and conditional statements.
 
 ## Instructions
 
@@ -28,9 +28,10 @@ Write a program that asks the user to enter a sentence. The program should trans
 Use loops, lists, and string manipulation techniques to accomplish this task.
 
 ## Submission Guidelines
-- Create a single Python file containing all the programs for each part.
+- Create a single Jupyter notebook file containing all the programs for each part.
 - Add comments to explain your code.
 - Test your programs with different inputs to ensure they work correctly.
-- Submit your Python file via the specified method.
+- Submit your assignment as a link to your Jupyter notebook file on Google CoLab.
+- Be sure to test your link before you submit to ensure it works correctly!
 
 Note: Feel free to explore additional linguistic tasks or expand on the given ones. Have fun and happy coding!
