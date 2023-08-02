@@ -1,96 +1,54 @@
-# Fandom Frenzy using Flask
+# Fandom Frenzy (With Functions!)
 
 ## Introduction
-In this assignment, you will use the Flask library in Python to create a web application called "Fandom Frenzy." The application will serve as a fan community website dedicated to a particular film, TV show, video game, or other fictional universe. You will build multiple routes/pages to showcase various aspects of the fandom, such as discussions, fan art, character profiles, and more.
 
-## Task
-Your task is to build the Fandom Frenzy web application using Flask. Each route/page should represent a different section or feature of the fan community website.
+In this two-week long project, you will explore the exciting world of Python functions while diving deep into your favorite media property or fictional universe. Whether you're a fan of movies, TV shows, books, video games, or any other form of media, this assignment will allow you to combine your passion for your fandom with the power of programming.
 
-## Instructions
+## Assignment Overview
 
-1. **Import necessary modules**: Before proceeding, make sure you have access to Google Colab. In the first code cell of your Jupyter notebook, import the necessary modules:
-   ```python
-   from flask import Flask, render_template
-   ```
+Your task is to create a Jupyter notebook on Google CoLab that interacts with the user to gather information about their favorite fandom. You will use functions to handle different aspects of the fandom, such as character information, plot summaries, or any other creative ideas you come up with.
 
-2. **Install and run ngrok (optional)**: Since Google Colab doesn't provide public URLs for hosted Flask applications, you can use ngrok to expose the local server to the internet. Install and run ngrok using the following code cell:
-   ```python
-   !pip install pyngrok
-   from pyngrok import ngrok
-   ```
+## Requirements
 
-3. **Create an instance of the Flask class**: In the next code cell, create an instance of the Flask class:
-   ```python
-   app = Flask(__name__)
-   ```
+1. The Jupyter notebook should be hosted on Google CoLab.
+2. The program should use functions for different functionalities, and each function must have a clear purpose.
+3. At least one function should accept arguments to customize its behavior.
+4. At least one function should return a value that is displayed to the user.
+5. The program should handle input validation to ensure that incorrect data is not accepted.
+6. The program should have a user-friendly and engaging interface.
 
-4. **Define multiple routes for your application**: Define multiple routes for your application in subsequent code cells. Each route will represent a different section or feature of the fan community website:
-   - Route 1: Home page
-     - URL: `/`
-     - Description: This page will serve as the landing page for your Fandom Frenzy application. It should provide an overview of the fandom, introduce the fictional universe, and display recent community activities.
-   - Route 2: Discussions
-     - URL: `/discussions`
-     - Description: This page should showcase discussions related to the fictional universe. Users should be able to create new discussion threads, view existing discussions, and participate in conversations.
-   - Route 3: Fan Art
-     - URL: `/fanart`
-     - Description: This page should feature fan-created artwork inspired by the fictional universe. Users can submit their own fan art, view a gallery of artwork, and interact with the artists.
-   - Route 4: Character Profiles
-     - URL: `/characters`
-     - Description: This page should provide detailed profiles of characters from the fictional universe. Users can explore different characters, learn about their backstories, abilities, and relationships.
-   - Route 5: Events and Conventions
-     - URL: `/events`
-     - Description: This page should list upcoming events, conventions, or meetups related to the fandom. Users can view event details, RSVP, and discuss event-related topics.
-   - Feel free to add more routes/pages to incorporate additional features of the fan community website.
+## Suggested Steps
 
-5. **Define view functions for each route**: Define view functions for each route in the subsequent code cells. Each view function will render the corresponding HTML template:
-   - Create a function for the home page route:
-     ```python
-     @app.route('/')
-     def index():
-         # Add code to display content related to the fandom and recent activities
-         return render_template('index.html')
-     ```
+1. Choose your Fandom: Select your favorite fandom or any topic you are passionate about. It could be a movie, TV show, book series, video game, or anything that excites you.
 
-   - Create view functions for each route:
-     ```python
-     @app.route('/discussions')
-     def discussions():
-         # Add code to display discussions
-         return render_template('discussions.html')
+2. Design Functionality: Plan out the different functionalities you want to include in your program. For example, you can have functions for:
+   - Displaying a list of characters or elements from your fandom.
+   - Providing a plot summary of your favorite movie or TV show.
+   - Creating a character generator with customizable traits.
+   - Calculating statistics related to your fandom, like the average rating of episodes or books.
 
-     @app.route('/fanart')
-     def fanart():
-         # Add code to display fan art
-         return render_template('fanart.html')
+3. Implement Functions: Start writing Python functions for each of the functionalities you designed. Remember to use proper function naming and structure.
 
-     @app.route('/characters')
-     def characters():
-         # Add code to display character profiles
-         return render_template('characters.html')
+4. User Interaction: Create a user-friendly interface to interact with your program. Use input() and print() statements to communicate with the user.
 
-     @app.route('/events')
-     def events():
-         # Add code to display events and conventions
-         return render_template('events.html')
-     ```
+5. Input Validation: Implement input validation to ensure the user provides appropriate input.
 
-   - Remember to add more view functions for additional routes/pages.
+6. Test Your Program: Thoroughly test your program with various inputs to check if it works as expected and handles different scenarios correctly.
 
-6. **Create HTML templates for each page**: Create HTML templates for each page in your Google Colab environment. Each template will represent a different section or feature of the fan community website. Customize the templates to match the design and theme of the fan community website.
+7. Debug and Refine: Review your code for any bugs or improvements that can be made. Optimize your functions and make sure they follow best practices.
 
-7. **Run the Flask application using ngrok**: To expose the Flask application to the internet, run the following code in a separate code cell:
-   ```python
-   # Run Flask app using ngrok to expose the local server to the internet
-   app_url = ngrok.connect(port=5000)
-   app.run(port=5000)
-   ```
+8. Documentation: Include comments and/or docstrings to explain the purpose of your functions and how to use them.
 
-8. **Access the Fandom Frenzy application**: After running the ngrok code cell, the application will be accessible through the generated public URL provided by ngrok. You can find the URL in the output of the code cell.
+9. Jupyter Notebook: Convert your Python code into a Jupyter notebook and host it on Google CoLab.
 
-9. **Test and submit**: Test your Fandom Frenzy web application by navigating to different routes using the public URL provided by ngrok. Ensure that all features and sections of the website work as expected. Once you are satisfied, you can submit your Jupyter notebook containing the completed assignment.
+10. Show Your Unique Voice: Add finishing touches to your program to make it stand out and showcase your creative ideas and original voice.
 
----
+## Submission
 
-Follow these instructions to complete the Fandom Frenzy using Flask assignment in Google Colab and Jupyter notebook format. Customize the content, design, and features of your fan community website to cater to the chosen fictional universe and create an engaging experience for fans.
+When you have completed the assignment, please submit the following:
+- The link to your Jupyter notebook hosted on Google CoLab. 
+- Ensure your notebook also contains a brief write-up about your chosen area of fandom and the functionalities you implemented.
 
-Best of luck with your assignment!
+## Have Fun!
+
+This assignment is all about exploring the intersection of your passion for your favorite fandom and the world of programming. Feel free to get creative and have fun with it! If you need any help or have any questions, don't hesitate to ask for assistance. 
