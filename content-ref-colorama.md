@@ -56,8 +56,6 @@ Colorama enhances console output by adding visual appeal and emphasis to text in
 
 The `init()` function in Colorama is used primarily on Windows systems to ensure automatic color and style resets after each print statement. While it's not always necessary on macOS and Linux due to more consistent color support, using it with `autoreset=True` is still a good practice for cross-platform consistency.
 
-Here's the relevant part of the code with Markdown formatting:
-
 ```python
 from colorama import Fore, Back, Style, init
 
