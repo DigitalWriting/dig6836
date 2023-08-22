@@ -50,5 +50,24 @@ Remember to install Colorama using:
 ```bash
 pip install colorama
 ```
-
 Colorama enhances console output by adding visual appeal and emphasis to text in your scripts or command-line programs.
+
+## Note: Using `init()` with Colorama on Different Platforms
+
+The `init()` function in Colorama is used primarily on Windows systems to ensure automatic color and style resets after each print statement. While it's not always necessary on macOS and Linux due to more consistent color support, using it with `autoreset=True` is still a good practice for cross-platform consistency.
+
+Here's the relevant part of the code with Markdown formatting:
+
+```python
+from colorama import Fore, Back, Style, init
+
+# Initialize Colorama with autoreset on Windows systems
+init(autoreset=True)
+
+# Your colored and styled print statements
+
+# If you're not using init() on macOS/Linux, manually reset after each print:
+# print(Style.RESET_ALL + "Back to normal text.")
+```
+
+By including the `init(autoreset=True)` line, you ensure that your code is portable and behaves consistently across various operating systems.
