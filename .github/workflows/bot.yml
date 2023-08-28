@@ -4,7 +4,7 @@ name: Discord Webhook
 # be triggered using cron set at a 120 minutes interval (every two hours).
 on:
   schedule:
-    - cron: "0 10,20 * * *"
+    - cron: "0 20 * * 1"
 
 # 'jobs' are the routines, we only have
 # one when the instance is built.

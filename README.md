@@ -9,6 +9,9 @@ Current students should note that all course evaluation materials, including gra
 
 [UCF Webcourses Page](https://webcourses.ucf.edu/courses/1435073)
 
+## Library and Reference Guides
+[Colorama](content-ref-colorama)
+
 ## Practice Exercises
 [Printing and Strings](practice_strings_print)
 
