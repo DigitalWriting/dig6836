@@ -1,4 +1,18 @@
+# Reference for the Tkinter Python Library
+
+## About Tkinter
+
+The name "Tkinter" is a combination of two words: "Tk" and "inter."
+
+    Tk: Tkinter is based on the Tk GUI toolkit, which was created by John Ousterhout in the late 1980s. "Tk" stands for "Toolkit." Tk provides a set of graphical user interface widgets and is known for its simplicity and ease of use. It was originally developed for the Tcl programming language but has since been adopted for use with many programming languages, including Python.
+
+    inter: The "inter" part of "Tkinter" represents the fact that it's an interface to the Tk GUI toolkit. Tkinter provides a Python interface (or "inter-face") to the Tk library, allowing Python programmers to create graphical user interfaces using Tk's widgets and functionality.
+
+So, Tkinter essentially means "Tk interface for Python." It enables Python developers to create GUI applications using the Tk toolkit's widgets and features, making it a popular choice for building desktop applications with Python.
+
 Creating a GUI using the Tkinter library in Python is a great way to build graphical user interfaces for your Python applications. Here's an example script and a brief tutorial on creating a simple GUI window with a button using Tkinter:
+
+## Using Tkinter
 
 ```python
 import tkinter as tk
